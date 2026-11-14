@@ -1,0 +1,46 @@
+
+# Environment Variables
+python-dotenv
+
+# Groq LLM
+groq
+
+# Google Gemini
+google-generativeai
+
+# LangChain Framework
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-google-genai
+langchain_huggingface
+
+# LangSmith Tracking
+langsmith
+
+# Jupyter Notebook
+ipykernel
+
+# Data Processing
+pandas
+numpy
+
+# Document Processing (RAG)
+pypdf
+pymupdf
+
+# Vector Database
+faiss-cpu
+
+# Embeddings
+sentence-transformers
+
+# API / Web Application
+fastapi
+uvicorn
+streamlit
+
+# Utilities
+requests
+pydantic
